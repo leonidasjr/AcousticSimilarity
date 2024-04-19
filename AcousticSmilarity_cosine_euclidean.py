@@ -60,5 +60,3 @@ distance_df_euclidean.to_csv(file_path.replace('.txt', '_distance_matrix_euclide
 
 similarity_df_cosine.to_csv(file_path.replace('.txt', '_similarity_matrix_cosine.csv'))
 distance_df_euclidean.to_csv(file_path.replace('.txt', '_distance_matrix_euclidean.csv'))
-
-
